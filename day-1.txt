@@ -1,0 +1,5 @@
+1st day
+
+In this day, brief introduction about android development and history of android.
+and expain What are the prerequisites of android studio and android development.
+And explain installation and requirement of Android studio for Windows.
